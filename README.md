@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kevin272002
 - 👀 I’m interested in Aeronautical Engineering
 - 🌱 I’m currently learning Engineering
-- 💞️ I’m looking to collaborate on NASA
+- 💞️ I’m looking to collaborate with NASA
 - 📫 How to reach me 006590892742
 
 <!---
